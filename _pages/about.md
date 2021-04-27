@@ -37,5 +37,5 @@ redirect_from:
 * Languages: Mandarin, English
 
 # Curriculum Vitae
-[XZhou_CV_041521](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_data/Xinyu_Zhou_CV_041521.pdf)
+[XZhou_CV_041521](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_data/Xinyu_Zhou_CV_041521.pdf)<br>
 [XZhou_CV_042721_cn(中文版)](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_data/Xinyu_Zhou_CV_cn_042721.pdf)
