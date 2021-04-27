@@ -17,7 +17,7 @@ redirect_from:
   GPA: 4.00/4.00
 
 # Publications
-* **Zhou X**<sup>\*</sup>, Song Y<sup>\*</sup>, Jiang H, Wang Q, Qu Z, Zhou X, Jit M, Hou Z<sup>†</sup>, Lin L. "Comparison of public response to containment measures during the initial outbreak and resurgence of COVID-19 epidemic in China: an infodemiology study". Journal of medical Internet research. 2021;23(4):e26518. DOI: 10.2196/26518. [[PDF](https://www.jmir.org/2021/4/e26518/PDF)] [[Full Text](https://www.jmir.org/2021/4/e26518)]
+* **Zhou X**<sup>\*</sup>, Song Y<sup>\*</sup>, Jiang H, Wang Q, Qu Z, Zhou X, Jit M, Hou Z<sup>†</sup>, Lin L. "Comparison of public response to containment measures during the initial outbreak and resurgence of COVID-19 epidemic in China: an infodemiology study". Journal of medical Internet research. 2021;23(4):e26518. DOI: 10.2196/26518. [[PDF](https://www.jmir.org/2021/4/e26518/PDF)] [[Full Text](https://www.jmir.org/2021/4/e26518)] [[Data](https://github.com/xinyuuzhou/weibo_covid-19_dataset)]
 * Hou Z<sup>†</sup>, Du F, **Zhou X**, Jiang H, Martin S, Larson H, Lin L. "Cross-country comparison of public awareness, rumors, and behavioral responses to the COVID-19 epidemic: infodemiology study". Journal of medical Internet research. 2020 Aug 3;22(8):e21143. DOI: 10.2196/21143.[[PDF](https://www.jmir.org/2020/8/e21143/PDF)] [[Full Text](https://jmir.org/2020/8/e21143/)]
 
 # Manuscripts submitted
