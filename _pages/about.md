@@ -11,9 +11,9 @@ redirect_from:
 
 
 # Education
-* **B.A. in Management (Health Policy and Management Track), School of Public Health, Fudan University** *Sept. 2017 - Exp. Jun. 2022*
+* **B.A. in Management (Health Policy and Management Track), School of Public Health, Fudan University** *Sept. 2017 - Exp. Jun. 2022*<br>
   GPA: 3.46/4.00, Ranking: 15/120
-* **Visiting student, University of California, Irvine** *Sept. 2019 - Dec. 2019*
+* **Visiting student, University of California, Irvine** *Sept. 2019 - Dec. 2019*<br>
   GPA: 4.00/4.00
 
 # Publications
