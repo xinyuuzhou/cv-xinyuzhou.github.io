@@ -9,10 +9,9 @@ redirect_from:
 ---
 
 
-
 # Education
 * **B.A. in Management (Health Policy and Management Track), School of Public Health, Fudan University** *Sept. 2017 - Exp. Jun. 2022*<br>
-  GPA: 3.46/4.00, Ranking: 15/120
+  GPA: 3.46/4.00, Ranking: 1/21
 * **Visiting student, University of California, Irvine** *Sept. 2019 - Dec. 2019*<br>
   GPA: 4.00/4.00
 
@@ -22,6 +21,7 @@ redirect_from:
 
 # Manuscripts submitted
 * **Zhou X**<sup>\*</sup>, de Figueiredo A, Xu Q, Lin L, Kummervold PE, Larson H, Jit M, Hou Z<sup>†*</sup> “Monitoring global trends in Covid-19 vaccination intention and confidence: a social media-based deep learning study” MEDRXIV (2021) [[PDF](https://www.medrxiv.org/content/10.1101/2021.04.17.21255642v1.full.pdf)] [[Full Text](https://www.medrxiv.org/content/10.1101/2021.04.17.21255642v1.full)][[Appendix](https://www.medrxiv.org/content/10.1101/2021.04.17.21255642v1.supplementary-material)] [[Chinese Translation (PDF)](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_publications/%5B中文翻译版%5DMonitoring%20global%20trends%20in%20Covid-19%20vaccination%20intention%20and%20confidence%20a%20social%20media-based%20deep%20learning%20study.pdf)] [[Slides (in Chinese)](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_publications/%5BSlides_cn_041321%5DMonitoring%20global%20trends%20in%20Covid-19%20vaccination%20intention%20and%20confidence%20a%20social%20media-based%20deep%20learning%20study.pdf)] [[Data](https://github.com/xinyuuzhou/covid-19_vaccine_tweet_dataset)]
+* **Zhou X**, Gadoth A, Halbrook M, Wang C, Lu L, and Hou Z<sup>†</sup>, "Temporal and spatial trends of COVID-19 vaccination intent in the United States, January 2020 to March 2021", submitted (2021)
 * Hou Z<sup>†</sup>, **Zhou X**, Jiang H, Du F, Larson H, Lin L. "Assessment of public awareness, risk perception and mental health burden during the first 3 months of the COVID-19 epidemic in China: a social media surveillance. JMIR Preprints". 20/05/2020:20498. DOI: 10.2196/preprints.20498. [[PDF](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_publications/preprint-20498.pdf)] [[Full Text](https://preprints.jmir.org/preprint/20498)]
 * Hou Z<sup>†</sup>, Lin L<sup>\*</sup>, Song Y<sup>\*</sup>, Wang Q<sup>\*</sup>, Pu J, Sun F, Zhang Y, **Zhou X**, Larson H. "Assessment of public attitude and uptake experience of COVID-19 tests in the United Kingdom and China: a comparative infodemiology study". JMIR Preprints. 02/01/2021:26895. DOI: 10.2196/preprints.26895. [[PDF](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_publications/preprint-26895.pdf)] [[Full Text](https://preprints.jmir.org/preprint/26895)]
 
@@ -37,5 +37,4 @@ redirect_from:
 * Languages: Mandarin, English
 
 # Curriculum Vitae
-[XZhou_CV_041521](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_data/Xinyu_Zhou_CV_041521.pdf)<br>
-[XZhou_CV_042721_cn(中文版)](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_data/Xinyu_Zhou_CV_cn_042721.pdf)
+[Xinyu_Zhou_CV_050221](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_data/Xinyu_Zhou_CV_050221.pdf)
