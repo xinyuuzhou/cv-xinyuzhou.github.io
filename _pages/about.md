@@ -36,5 +36,8 @@ redirect_from:
 * Softwares: Photoshop, Premiere Pro, STATA, Lightroom, Microsoft Excel & PowerPoint
 * Languages: Mandarin, English
 
+# Awards
+* Grand Prize, "Tiaozhanbei (Shanghai Division)" *highest prize in highest level research competition in Shanghai among undergraduate/graduate students*
+* First Prize, "Tiaozhanbei (Fudan University)" *highest prize in highest level research competition in Fudan University among undergraduate/graduate students*
 # Curriculum Vitae
-[Xinyu_Zhou_CV_050221](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_data/Xinyu_Zhou_CV_050221.pdf)
+[Xinyu_Zhou_CV_051221](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_data/Xinyu_Zhou_CV_051221.pdf)
