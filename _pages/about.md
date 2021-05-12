@@ -38,9 +38,9 @@ redirect_from:
 
 # Awards
 * Grand Prize, "Tiaozhanbei (Shanghai Division)" <br>
-*highest prize in highest level research competition in Shanghai among undergraduate/graduate students*<br>
+*the highest award in the highest level research competition among undergraduate/graduate students in Shanghai*<br>
 * First Prize, "Tiaozhanbei (Fudan University)" <br>
-*highest prize in highest level research competition in Fudan University among undergraduate/graduate students*<br>
+*the highest award in the highest level research competition among undergraduate/graduate students in Fudan University*<br>
 
 # Curriculum Vitae
 [Xinyu_Zhou_CV_051221](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_data/Xinyu_Zhou_CV_051221.pdf)
