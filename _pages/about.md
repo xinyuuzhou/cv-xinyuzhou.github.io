@@ -37,9 +37,9 @@ redirect_from:
 * Languages: Mandarin, English
 
 # Awards
-* Grand Prize, "Tiaozhanbei (Shanghai Division)" <br>
+* Grand Prize, "Tiaozhanbei (Shanghai Division)" 
 *the highest award in the highest level research competition among undergraduate/graduate students in Shanghai*<br>
-* First Prize, "Tiaozhanbei (Fudan University)" <br>
+* First Prize, "Tiaozhanbei (Fudan University)" 
 *the highest award in the highest level research competition among undergraduate/graduate students in Fudan University*<br>
 
 # Curriculum Vitae
