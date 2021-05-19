@@ -24,6 +24,7 @@ redirect_from:
 * **Zhou X**, Gadoth A, Halbrook M, Wang C, Lu L, and Hou Z<sup>†</sup>, "Temporal and spatial trends of COVID-19 vaccination intent in the United States, January 2020 to March 2021", submitted (2021)
 * Hou Z<sup>†</sup>, **Zhou X**, Jiang H, Du F, Larson H, Lin L. "Assessment of public awareness, risk perception and mental health burden during the first 3 months of the COVID-19 epidemic in China: a social media surveillance. under review in Journal of Affective Disorders". 20/05/2020:20498. DOI: 10.2196/preprints.20498. [[PDF](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_publications/preprint-20498.pdf)] [[Full Text](https://preprints.jmir.org/preprint/20498)]
 * Lin L<sup>\#</sup>, Song Y<sup>\#</sup>, Wang Q<sup>\#</sup>, Pu J, Sun F, Zhang Y, **Zhou X**, Larson H, Hou Z<sup>†</sup>. "Assessment of public attitude and uptake experience of COVID-19 tests in the United Kingdom and China: a comparative infodemiology study". re-review in Journal of Medical Internet Research. 02/01/2021:26895. DOI: 10.2196/preprints.26895. [[PDF](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_publications/preprint-26895.pdf)] [[Full Text](https://preprints.jmir.org/preprint/26895)]
+<sup>\#</sup>: equally contributed
 
 # Research Positions
 * Reviewer, Journal of Medical Internet Research
