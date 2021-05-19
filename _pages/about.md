@@ -40,7 +40,7 @@ redirect_from:
 # Awards
 * Grand Prize, "_Challenge_ (Shanghai Division)" 
 *the highest award in the highest level research competition among undergraduate/graduate students in Shanghai*<br>
-* First Prize, "_Challenge_ (Fudan University)" 
+* First Prize, "_Challenge_ (Fudan University Division)" 
 *the highest award in the highest level research competition among undergraduate/graduate students in Fudan University*<br>
 * Champion, "_Fudan University Freshman Chinese Chess competition_"
 
