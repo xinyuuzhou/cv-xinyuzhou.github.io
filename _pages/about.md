@@ -38,11 +38,11 @@ redirect_from:
 * Languages: Mandarin, English
 
 # Awards
-* Grand Prize, "_Challenge_ (Shanghai Division)" 
+* Grand Prize, "Challenge (Shanghai Division)" 
 *the highest award in the highest level research competition among undergraduate/graduate students in Shanghai*<br>
-* First Prize, "_Challenge_ (Fudan University Division)" 
+* First Prize, "Challenge (Fudan University Division)" 
 *the highest award in the highest level research competition among undergraduate/graduate students in Fudan University*<br>
-* Champion, "_Fudan University Freshman Chinese Chess competition_"
+* Champion, "Fudan University Freshman Chinese Chess competition"
 
 # Curriculum Vitae
 [Xinyu_Zhou_CV_051221](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_data/Xinyu_Zhou_CV_051221.pdf)
