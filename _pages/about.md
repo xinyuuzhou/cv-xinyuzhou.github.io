@@ -45,4 +45,4 @@ redirect_from:
 * Champion, "Fudan University Freshman Chinese Chess competition"
 
 # Curriculum Vitae
-[Xinyu_Zhou_CV_051221](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_data/Xinyu_Zhou_CV_051221.pdf)
+[Xinyu_Zhou_CV_052121](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_data/Xinyu_Zhou_CV_052121.pdf)
